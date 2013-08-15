@@ -1,0 +1,13 @@
+/*
+
+
+
+*/
+
+// 1. Create Canvas
+// 2. Get Image and draw it
+// 3. Get read rect (whole or user defined by a rect by mouse input or by predefined rects)
+// 4. submit tess command with rect. (recieved by pyTessServer)
+// 5. show output.
+
+
